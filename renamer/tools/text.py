@@ -39,7 +39,7 @@ For source code check about
 
     START_TEXT = """Hi {user_mention},
 
-I am a Disney Team renamer V3 BOT with permanent thumbnail.
+I am a Disney Team renamer V4 BOT with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
