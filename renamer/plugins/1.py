@@ -49,7 +49,6 @@ async def spam_user(c, m):
         InlineKeyboardButton('updates channel', url='https://t.me/disneygrou')
         ],[
         InlineKeyboardButton('support', url='https://t.me/disneyteamchat'),
-        InlineKeyboardButton('dev, url='https://t.me/doreamonfans2')
     ]]
     await m.reply_text("I wont work for you. If you want make your own bot", reply_markup=InlineKeyboardMarkup(buttons))
     await m.chat.leave()
