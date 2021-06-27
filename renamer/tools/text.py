@@ -42,6 +42,8 @@ I am Disney Team renamer BOT with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
+I Support Group Also 😁
+
 **Maintained By:** [DoreamonFans](https://t.me/doreamonfans1)
 """
 
