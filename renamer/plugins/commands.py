@@ -83,7 +83,7 @@ async def about(c, m, cb=False):
         )
     else:
         await m.reply_text(
-            text=TEXT.ABOUT.format(bot_name=me.mention(style='md'), bot_owner=[DoreamonFans](https://t.me/doreamonfans1)
+            text=TEXT.ABOUT.format(bot_name=me.mention(style='md'), bot_owner=owner.mention(style="md")),
             disable_web_page_preview=True,
             reply_markup=reply_markup,
             quote=True
