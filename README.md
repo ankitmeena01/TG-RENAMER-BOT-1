@@ -4,7 +4,7 @@ I think this repo gonna become one of the best renamer open source 🥰.
 ## Deploy to Heroku 🗳
 Press the following button to deploy in heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/TG-RENAMER-BOT-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ankitmeena01/TG-RENAMER-BOT-1)
 
 ## Bot Features 🔥
 - Renaming Telegram files as file or video.
